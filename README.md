@@ -21,11 +21,16 @@ Features
 
 # Project Structure
 Java Classes
-  Main:Having main() calling BankService
+  Main:Having main() calling BankService.
+  
   User: Manages user data and login credentials.
+  
   Account: Manages account information, including balance and transactions.
+  
   Transaction: Logs transactions with ID, date, type, and amount.
+  
   BankService: Contains the main application logic, including the console interface.
+  
 Data Management
   In-Memory Storage: User, account, and transaction data are stored in Java collections, ensuring fast access and updates.
 Error Handling
