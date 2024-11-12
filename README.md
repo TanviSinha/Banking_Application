@@ -33,5 +33,6 @@ Java Classes
   
 Data Management
   In-Memory Storage: User, account, and transaction data are stored in Java collections, ensuring fast access and updates.
+  
 Error Handling
   Exception Handling: Catches invalid inputs and overdrafts with informative messages for the user.
